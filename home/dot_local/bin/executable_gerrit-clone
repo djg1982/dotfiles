@@ -60,16 +60,16 @@ Usage:
 
 Example:
 
-  $command_name https://review.gerrithub.io/a/felipecrs/dotfiles
+  $command_name https://review.gerrithub.io/a/djg1982/dotfiles
 
-  $command_name https://review.gerrithub.io/a/felipecrs/dotfiles ~/.dotfiles
+  $command_name https://review.gerrithub.io/a/djg1982/dotfiles ~/.dotfiles
 
-  $command_name https://review.gerrithub.io/a/felipecrs/dotfiles --depth=1
+  $command_name https://review.gerrithub.io/a/djg1982/dotfiles --depth=1
 
-  $command_name https://review.gerrithub.io/a/felipecrs/dotfiles ~/.dotfiles --depth=1
+  $command_name https://review.gerrithub.io/a/djg1982/dotfiles ~/.dotfiles --depth=1
 
   # uses the base url defined at $config_file
-  $command_name felipecrs/dotfiles
+  $command_name djg1982/dotfiles
 
 EOM
 )
